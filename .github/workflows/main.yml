@@ -2,6 +2,9 @@
 
 name: Telegram notification
 
+runs:
+  using: 'node16'
+
 # Controls when the action will run. Triggers the workflow on pull request
 on:
   pull_request:
