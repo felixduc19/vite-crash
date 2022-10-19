@@ -34,7 +34,7 @@ function App() {
 					{token && <span>Token:{token}</span>}
 				</p>
 			</div>
-			<div>hello world</div>
+			<divs>hello world</divs>
 		</div>
 	);
 }
